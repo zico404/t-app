@@ -1,0 +1,3 @@
+RewriteEngine On
+ErrorDocument 404 /t-app/404.php
+AddType application/x-httpd-php .html
